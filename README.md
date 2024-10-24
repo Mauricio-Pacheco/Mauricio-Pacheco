@@ -77,6 +77,4 @@ Conclusão: Março de 2024
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-Trabalho como Analista e Desenvolvedor de Sistemas a 20 anos. 
-<br>  
-Sou uma pessoa estudiosa e atenta, em constante atualização com as novas tecnologias, programas e conceitos. De postura pró-ativa, aceito desafios e assumo responsabilidades. Sou sincero, honesto e sempre disposto à colaborar. Possuo grande senso profissional e procuro sempre desempenhar minha função da melhor forma possível.
+
